@@ -4,4 +4,5 @@ class Airport
   def initialize(x:, y:)
     @position = {x:x, y:y}
   end
+
 end
